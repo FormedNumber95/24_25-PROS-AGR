@@ -1,3 +1,6 @@
+//The output starts only with Primero and then the 
+//Segundo start when Primero is in the 8 aprox. Is vecause the 
+//velocity of the threads
 package ejerciciosClase;
 
 /**
