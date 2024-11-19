@@ -18,6 +18,7 @@ public class Actividad1 {
 	public static void main(String[] args) {
 	
 		System.out.println("Direcciones asociadas a Spotify:");
+		System.out.println();
 		try {
 			InetAddress[] ad=InetAddress.getAllByName("www.spotify.com");
 			for(InetAddress a:ad) {
