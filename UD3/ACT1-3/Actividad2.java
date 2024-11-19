@@ -11,7 +11,7 @@ import java.net.UnknownHostException;
 public class Actividad2 {
 
 	/**
-	 * Method.
+	 * Method that runs the application.
 	 *
 	 * @param args the arguments
 	 */
